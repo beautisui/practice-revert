@@ -1,2 +1,3 @@
 Hello world
 Line from bad commit
+Another good line
